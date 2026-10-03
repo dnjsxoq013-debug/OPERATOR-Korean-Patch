@@ -2,15 +2,15 @@
 
 ## 다운로드
 
-**[오류 수정본 v0.1.1 원클릭 설치파일 다운로드 (약 720MB)](https://github.com/dnjsxoq013-debug/OPERATOR-Korean-Patch/releases/download/v0.1.1/OPERATOR_Korean_v0.1.1_Setup.exe)**
+**[오류 수정본 v0.1.2 원클릭 설치파일 다운로드 (약 720MB)](https://github.com/dnjsxoq013-debug/OPERATOR-Korean-Patch/releases/download/v0.1.2/OPERATOR_Korean_v0.1.2_Setup.exe)**
 
-[수정 내역 · 설치 안내 · 해시 확인](https://github.com/dnjsxoq013-debug/OPERATOR-Korean-Patch/releases/tag/v0.1.1)
+[수정 내역 · 설치 안내 · 해시 확인](https://github.com/dnjsxoq013-debug/OPERATOR-Korean-Patch/releases/tag/v0.1.2)
 
-구버전 설치 중 파일 복사 오류가 발생했다면 v0.1.1을 다운로드하세요.
+구버전 설치 중 파일 복사 오류가 발생했다면 v0.1.2을 다운로드하세요.
 
 ---
 
-# OPERATOR 한글패치 v0.1.1 — 설치기 수정본
+# OPERATOR 한글패치 v0.1.2 — 설치기 수정본
 
 기존 v0.1 번역과 폰트는 그대로 유지하고 설치기를 수정했습니다. 전체 번역 검수·추가 수정은 미완료 상태입니다.
 
@@ -20,8 +20,13 @@
 - 오류 내용을 사용자 폴더의 `OPERATOR-Korean/Logs`에 저장하고, 창의 ‘기록 복사’ 버튼으로 복사할 수 있습니다.
 - 중단된 백업과 동일한 내용인지 검증한 뒤 재사용합니다.
 
-게임을 종료한 뒤 `OPERATOR_Korean_v0.1.1_Setup.exe`를 실행하세요. 지원 버전은 Steam OPERATOR 빌드 **24091246**입니다.
+게임을 종료한 뒤 `OPERATOR_Korean_v0.1.2_Setup.exe`를 실행하세요. 지원 버전은 Steam OPERATOR 빌드 **24091246**입니다.
 
 시험: 실제 설치기 실행기로 설치·재설치·복구·변조 파일 차단을 확인했습니다. 긴 임시 경로 시험에서 수정본이 정상 설치됐습니다. 제보된 다른 PC의 전체 오류 문구가 없어 그 원인이 확정되거나 해당 PC에서 해결됐다고 주장하지 않습니다.
 
 기존 v0.1이 이미 정상 설치되어 있으면 게임 파일을 다시 변경할 필요가 없습니다. 설치 오류가 났던 경우 이 수정본으로 시도하고, 실패하면 ‘기록 복사’로 전체 문구를 보내주세요.
+
+
+## 업데이트 기능
+
+처음 한 번 v0.1.2를 설치하면 바탕화면에 OPERATOR 한글패치 업데이트 바로가기가 생성됩니다. 실행할 때 GitHub의 새 버전을 확인하고 자동 다운로드한 뒤 설치파일을 실행합니다. 게임을 먼저 종료하세요. Windows 시작 시 상주하지 않습니다. 전체 번역 검수는 진행 중이며 이 배포본의 번역 데이터는 이전과 같습니다.
