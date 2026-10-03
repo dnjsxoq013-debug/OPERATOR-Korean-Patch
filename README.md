@@ -1,3 +1,15 @@
+# OPERATOR 한글패치
+
+## 다운로드
+
+**[원클릭 설치파일 다운로드 (약 720MB)](https://github.com/dnjsxoq013-debug/OPERATOR-Korean-Patch/releases/download/v0.1-repack/OPERATOR_Korean_v0.1_Setup.exe)**
+
+[배포 페이지 · 설치 안내 · 해시 확인](https://github.com/dnjsxoq013-debug/OPERATOR-Korean-Patch/releases/tag/v0.1-repack)
+
+게임을 종료한 뒤 다운로드한 EXE를 실행하세요. 아래 안내의 지원 빌드를 확인해주세요.
+
+---
+
 OPERATOR 기존 한글패치 v0.1을 원클릭 Windows 설치파일로 포장한 배포본입니다.
 
 **이번 전체 번역 검수·추가 수정은 완료되지 않았습니다. 기존에 설치된 v0.1 번역과 한글 폰트를 그대로 배포합니다.**
